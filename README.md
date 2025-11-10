@@ -12,4 +12,4 @@ This project aims to help me understand github and how it can be useful in every
 - I aim to create a portfolio of my work
 - I am to present my work in a clear and well organised way
 - I aim to increase my confidence levels using the tools provided
-  
+- I aim to use python and jupyter notebook  
